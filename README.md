@@ -1,6 +1,6 @@
 # VERICO
 
-## Repo for hack cbs 3.O hackathon
+## Repo for hack cbs 5.O hackathon
 
 Team name - # HackExpress
 
