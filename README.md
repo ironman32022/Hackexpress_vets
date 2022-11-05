@@ -1,4 +1,4 @@
-# VETRICO
+# VetriCo
 
 ## Repo for hack cbs 5.O hackathon
 
