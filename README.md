@@ -45,15 +45,19 @@ The goal of the system is to create a tool for managing the workflow of a **vets
 - Clone the repo: 
     ```
     git clone https://github.com/ironman32022/Hackexpress_vets.git
-    ```
+     ```
     
 After cloning successfully
+
+- Cmd to Run: 
+    ```
+    python manage.py runserver
 
 
  # Installation instructions to set up the project from scratch   
     
  # How to Run 
- - Download and Install any local web server such as [XAMPP](https://www.apachefriends.org/download.html).
+ - install [Django](https://www.djangoproject.com/download/).
  
 # System Installation/SetUp
 Complete steps to run this  project
