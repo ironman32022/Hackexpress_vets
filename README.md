@@ -1,4 +1,4 @@
-# VERICO
+# VETRICO
 
 ## Repo for hack cbs 5.O hackathon
 
