@@ -64,7 +64,7 @@ After cloning successfully
 # System Installation/SetUp
 Complete steps to run this  project
 - **step-1** : Open a New terminal
-- **step-2** : Run a cmd name pip install **keras**
+- **step-2** : Run a cmd as : pip install **keras**
 - **step-3** : then pip install **tensorflow**
 - **step-4** : pip install **opencv2**.
 - **step-5** : Run a command called **python manage.py runserver**
