@@ -2,7 +2,7 @@
 
 ## Repo for hack cbs 5.O hackathon
 
-Team name - # HackExpress
+Team name - **HackExpress**
 
 ## About the Project 
 The goal of the system is to create a tool for managing the workflow of a **vets** as well as **livestock owners** . There was a need for a light weight application that would keep track of clients, appointments, procedures and medication. All these vets need a web application to manage their work, clients, pets, medication
