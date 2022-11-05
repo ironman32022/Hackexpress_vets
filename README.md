@@ -58,15 +58,17 @@ After cloning successfully
     
  # How to Run 
  - install [Django](https://www.djangoproject.com/download/).
+ - install [PiP](https://pypi.org/project/pip-download/).
+ 
  
 # System Installation/SetUp
 Complete steps to run this  project
-- **step-1** : Open your XAMPP Control Panel and start Apache and MySQL.
-- **step-2** : Copy the cloned files  and paste it into the XAMPP's "htdocs" directory.
-- **step-3** : Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
-- **step-4** : Create a new database naming ems_db.
-- **step-5** : Import the provided SQL file. The file is known as ems_db.sql located inside the database folder.
-- **step-6** : Browse the Expense Tracking System in a browser. i.e. http://localhost/ci_ems/ .
+- **step-1** : Open a New terminal
+- **step-2** : Run a cmd name pip install **keras**
+- **step-3** : then pip install **tensorflow**
+- **step-4** : pip install **opencv2**.
+- **step-5** : Run a command called **python manage.py runserver**
+- **step-6** : Browse the  host name as https://127.0.0.1:8000 .
 
 
 
