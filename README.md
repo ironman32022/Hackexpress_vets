@@ -44,10 +44,10 @@ The goal of the system is to create a tool for managing the workflow of a **vets
 
 - Clone the repo: 
     ```
-    git clone https://github.com/ironman32022/IRIS_211ME262_3_PHP.git
+    git clone https://github.com/ironman32022/Hackexpress_vets.git
     ```
     
-After cloning success full merge all the file in tha name folder(ci_ems)
+After cloning successfully
 
 
  # Installation instructions to set up the project from scratch   
