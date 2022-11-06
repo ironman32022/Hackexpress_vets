@@ -1,0 +1,11 @@
+{% extends 'animal/nav.html' %}
+
+{% block content %}
+
+{% for customer in object_list %}
+{{customer}}
+<a href="{% url 'customer-pdf-view' customer.pk %}"> <button class="btn btn-primary">Pdf</button></a>
+<br>
+{% endfor %}
+
+{% endblock content %}
