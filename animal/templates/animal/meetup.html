@@ -1,0 +1,27 @@
+{% extends 'animal/nav.html' %}
+{%load static %}
+
+{% block content %}
+
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+    {% for meetups in meetup  %}
+    <div class="col">
+      <div class="card">
+        <img src="{% static 'img/download.jpg' %}" class="card-img-top" height="300px" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{meetups.Meetup_Name}}</h5>
+          <p class="card-text">{{meetups.venue}}</p>
+          <p class="card-text">{{meetups.Date}}</p>
+          <button type="" class="btn btn-success"> <a href="{% url 'ticket' meetups.pk %}" style="text-decoration:none; color: aliceblue;"> Ticket </a> </button>
+        </div>
+      </div>
+    </div>
+   {% endfor %}
+  </div>
+
+{% endblock content %}
+
+
+
+
