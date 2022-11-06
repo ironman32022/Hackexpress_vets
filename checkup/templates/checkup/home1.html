@@ -1,0 +1,21 @@
+{% extends 'animal/nav.html' %}
+{% load static %}
+{% block content %}
+<br>
+<br>
+
+
+<h1>{{classe}}</h1>
+<img src="{% static 'img/giphy.gif' %}" alt="">
+
+<style> 
+    body {
+        background-color: black;
+        text-align: center;
+        color: white;
+        list-style:None;
+    }
+      
+</style>
+
+{% endblock content %}
