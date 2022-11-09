@@ -37,6 +37,7 @@ The goal of the system is to create a tool for managing the workflow of a **vets
 - keras
 - tensorflow
 - opencv2
+- Django
 - crispy_forms
 - social_django
 
